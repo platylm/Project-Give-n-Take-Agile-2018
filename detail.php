@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
     <style>
         body {
-            background-image: url("../pic/fire.jpg");
+            background-image: url("pic/fire.jpg");
             background-position: center;
             font-family: Kanit;
         }
@@ -34,18 +34,18 @@
 <div class="container">
     <header>
         <a href="index.php">
-            <img src="../pic/logo.png" width="150">
+            <img src="pic/logo.png" width="150">
         </a>
     </header>
     <div id="bgleft">
         <br><br>
-        <img width="500" src="../pic/devil2.png">
+        <img width="500" src="pic/devil2.png">
     </div>
     <br><br>
     <div id="bg">
         <div align="center">
             <span style="color:#7c2ca2;font-size: 60px;padding-right: 80px;">77  ํC</span>
-            <img src="../pic/weather/1.png" alt="ปลอดโปร่ง" width="150">
+            <img src="pic/weather/1.png" alt="ปลอดโปร่ง" width="150">
             <span style="color:#f8001c;font-size: 60px;padding-left: 80px;">77  ํF</span>
         </div>
         <!-- <img src="../pic/weather/2.png" alt="ฝนตก" width="100">
