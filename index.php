@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
     <style>
         body {
-            background-image: url("../pic/fire.jpg");
+            background-image: url("pic/fire.jpg");
             background-position: center;
         }
 
@@ -24,12 +24,12 @@
 <div class="container">
     <header>
         <a href="index.php">
-            <img src="../pic/logo.png" width="150">
+            <img src="pic/logo.png" width="150">
         </a>
     </header>
     <div id="img">
         <a href="detail.php">
-            <img src="../pic/devil2.png" width="500">
+            <img src="pic/devil2.png" width="500">
         </a>
     </div>
 </div>
